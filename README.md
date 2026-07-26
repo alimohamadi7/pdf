@@ -24,13 +24,12 @@
 
 ## 🛠️ Technologies
 
-Technologies used in this project:
-
-* HTML / CSS / JavaScript
-* PDF Processing Library
-* Canvas API
-* RTL Text Support
-* Browser-based PDF Rendering and Editing
+- HTML / CSS / JavaScript
+- [PDF.js](https://mozilla.github.io/pdf.js/) برای نمایش و پردازش فایل‌های PDF
+- [pdf-lib](https://pdf-lib.js.org/) برای ایجاد و ویرایش فایل‌های PDF
+- [fontkit](https://github.com/foliojs/fontkit) برای پشتیبانی از فونت‌های سفارشی فارسی
+- Vazirmatn Font برای نمایش صحیح متن فارسی
+- Canvas API برای رندر و تعامل با صفحات PDF
 
 ## 📌 Usage
 
