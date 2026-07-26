@@ -21,25 +21,6 @@
 
 هدف این پروژه ایجاد یک ابزار ساده و کاربردی برای مطالعه، یادداشت‌برداری و ویرایش فایل‌های PDF فارسی است؛ به شکلی که کاربران بتوانند متن اضافه کنند، بخش‌های مهم را مشخص کنند و فایل نهایی را با تغییرات ذخیره کنند.
 
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Run Project
-
-```bash
-npm run dev
-```
 
 ## 🛠️ Technologies
 
